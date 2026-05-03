@@ -1,0 +1,7 @@
+Package: re.frida.server
+Name: Frida
+Version: 16.4.8
+Architecture: iphoneos-arm64
+Description: Frida server for rootless.
+Maintainer: Mohamed
+Filename: frida_16.4.8_iphoneos-arm64.deb
