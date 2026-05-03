@@ -1,7 +1,3 @@
-Origin: Mohamed-Repo
-Label: Mohamed
-Suite: stable
-Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Frida Repo
