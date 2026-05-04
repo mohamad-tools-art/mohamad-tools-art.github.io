@@ -1,9 +1,10 @@
 Package: re.frida.server
 Name: Frida
-Version: 16.4.8
+Version: 16.5.1
 Architecture: iphoneos-arm64
 Maintainer: Mohamed
-Description: Frida server for mobile
-Filename: ./frida_16.4.8_iphoneos-arm64.deb
-Size: 16600000
+Description: Frida server for Rootless
+Filename: frida_16.5.1_iphoneos-arm64.deb
+Size: 16186352
 Section: Development
+Priority: optional
