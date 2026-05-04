@@ -4,5 +4,6 @@ Version: 16.4.8
 Architecture: iphoneos-arm64
 Maintainer: Mohamed
 Description: Frida server for mobile
-Filename: frida_16.4.8_iphoneos-arm64.deb
-Size: 15000000
+Filename: ./frida_16.4.8_iphoneos-arm64.deb
+Size: 16600000
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
