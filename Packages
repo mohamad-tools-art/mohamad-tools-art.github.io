@@ -4,5 +4,7 @@ Version: 16.4.8
 Architecture: iphoneos-arm64
 Maintainer: Mohamed
 Description: Frida server for mobile
-Filename: https://raw.githubusercontent.com/mohamad-tools-art/mohamad-tools-art.github.io/main/frida_16.4.8_iphoneos-arm64.deb
+Filename: frida_16.4.8_iphoneos-arm64.deb
 Size: 16600000
+Section: Development
+Priority: optional
