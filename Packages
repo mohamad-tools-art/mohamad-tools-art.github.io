@@ -4,7 +4,8 @@ Version: 16.5.1
 Architecture: iphoneos-arm64
 Maintainer: Mohamed
 Description: Frida server for Rootless
-Filename: https://raw.githubusercontent.com/mohamad-tools-art/mohamad-tools-art.github.io/main/frida_16.5.1_iphoneos-arm64.deb
+Filename: frida_16.5.1_iphoneos-arm64.deb
 Size: 16186352
 Section: Development
 Priority: optional
+Status: install ok installed
